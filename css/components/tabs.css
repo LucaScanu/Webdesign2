@@ -1,9 +1,19 @@
 .tabs {
 	background: #53443F;
 	color: white;
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+}
+
+.tabs h3{
+	font-size: 17px;
 
 }
 
+.tabs p{
+	opacity: 0.5;
+}
 
 .tabs-item {
 
